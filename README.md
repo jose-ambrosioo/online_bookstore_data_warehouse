@@ -13,8 +13,7 @@ The data warehouse is used to store, manage, and analyze data related to an onli
 
 ![Captura de Ecrã (4324)](https://github.com/jose-ambrosioo/online_bookstore_data_warehouse/assets/59221796/df25a04a-a56d-4ab9-bb6f-f74b7f7cc91e)
 
-![Captura de Ecrã (4340)](https://github.com/jose-ambrosioo/online_bookstore_data_warehouse/assets/59221796/c7994ab1-42a6-427c-8fd7-3af2892cc6b4)
-
+![Captura de Ecrã (4342)](https://github.com/jose-ambrosioo/online_bookstore_data_warehouse/assets/59221796/b5a0ea83-747a-4097-ae18-9e7c533ca271)
 
 
 
