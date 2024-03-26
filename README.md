@@ -4,23 +4,23 @@
 This data warehouse is used as a centralized repository for storing, integrating, and analyzing various types of data, including sales transactions, customer information, product inventory, and marketing campaigns.
 
 Database design and development:
-• Designed, created, and populated the SQL database using MySQL Workbench.
-• Created views, stored procedures, and functions in the database.
-• Converted the database tables to CSV format, allowing seamless integration with Google BigQuery, a cloud-based data warehouse provider.
+<br>• Designed, created, and populated the SQL database using MySQL Workbench.
+<br>• Created views, stored procedures, and functions in the database.
+<br>• Converted the database tables to CSV format, allowing seamless integration with Google BigQuery, a cloud-based data warehouse provider.
 
 Data Warehouse development:
-• Created the data warehouse's datasets in Google BigQuery to store and manage data effectively. This provided a structured framework for subsequent data manipulation and analysis tasks.
-• Uploaded the database tables' CSV files to the data warehouse dataset, ensuring that the data was accessible for analysis and processing within the cloud-based environment.
+<br>• Created the data warehouse's datasets in Google BigQuery to store and manage data effectively. This provided a structured framework for subsequent data manipulation and analysis tasks.
+<br>• Uploaded the database tables' CSV files to the data warehouse dataset, ensuring that the data was accessible for analysis and processing within the cloud-based environment.
 
 Data transformation and query optimization:
-• Performed data transformation, including manual enrichment of the data. This step involved enhancing the dataset by incorporating additional relevant information to improve its analytical value.
-• Implemented query optimization techniques to enhance the efficiency of data retrieval and processing within the data warehouse. This included optimizing joins and aggregations to streamline the analysis process and improve overall performance.
+<br>• Performed data transformation, including manual enrichment of the data. This step involved enhancing the dataset by incorporating additional relevant information to improve its analytical value.
+<br>• Implemented query optimization techniques to enhance the efficiency of data retrieval and processing within the data warehouse. This included optimizing joins and aggregations to streamline the analysis process and improve overall performance.
 
 Views and Routines creation:
-• Created views and routines to offer customized data perspectives, providing tailored representations of the dataset to fulfill specific analytical requirements.
+<br>• Created views and routines to offer customized data perspectives, providing tailored representations of the dataset to fulfill specific analytical requirements.
 
 Data Visualization and Analysis:
-• Tableau was employed for data visualization and analysis purposes. Dashboards, reports, and interactive visualizations were created to facilitate the interpretation of insights derived from the analyzed data.
+<br>• Tableau was employed for data visualization and analysis purposes. Dashboards, reports, and interactive visualizations were created to facilitate the interpretation of insights derived from the analyzed data.
 
 ![Captura de Ecrã (4315)](https://github.com/jose-ambrosioo/online_bookstore_data_warehouse/assets/59221796/0b563b5b-fd9c-457c-905a-4e60f0af0e55)
 
