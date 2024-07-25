@@ -1,4 +1,4 @@
-# online_bookstore_data_warehouse
+# Online Bookstore Data Warehouse
 (SQL | GOOGLE BIGQUERY | TABLEAU | DATA WAREHOUSE | DATA ANALYSIS AND VISUALIZATION)
 
 This data warehouse is used as a centralized repository for storing, integrating, and analyzing various types of data, including sales transactions, customer information, product inventory, and marketing campaigns.
